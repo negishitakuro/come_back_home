@@ -1,6 +1,6 @@
 # come_back_home
 
-A new Flutter project.
+Notify your mother or wife via e-mail such as "I will return home" "I do not need dinner today".
 
 ## Getting Started
 

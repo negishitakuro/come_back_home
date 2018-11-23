@@ -1,5 +1,5 @@
 name: come_back_home
-description: A new Flutter project.
+description: Notify your mother or wife via e-mail such as "I will return home" "I do not need dinner today".
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -20,6 +20,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   mailer: ^2.0.2
+  datetime_picker_formfield: ^0.1.6
+  fluttertoast: ^2.1.1
+
 
 dev_dependencies:
   flutter_test:
